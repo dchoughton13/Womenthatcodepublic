@@ -9,4 +9,6 @@ h1 {
 }
 #center{
   text-align: left;
+  border-style: solid;
+  border-color: green;
 }
